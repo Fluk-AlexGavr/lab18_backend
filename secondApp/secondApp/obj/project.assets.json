@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\secondApp\\secondApp\\secondApp.csproj",
+      "projectUniqueName": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\lab18_backend\\secondApp\\secondApp\\secondApp.csproj",
       "projectName": "secondApp",
-      "projectPath": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\secondApp\\secondApp\\secondApp.csproj",
+      "projectPath": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\lab18_backend\\secondApp\\secondApp\\secondApp.csproj",
       "packagesPath": "C:\\Users\\alesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\secondApp\\secondApp\\obj\\",
+      "outputPath": "C:\\Users\\alesh\\OneDrive\\Desktop\\лабы\\2 курс\\Бекенд\\(18 лаба)\\lab18_backend\\secondApp\\secondApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = thirdApp
-build_property.ProjectDir = C:\Users\alesh\OneDrive\Desktop\лабы\2 курс\Бекенд\(18 лаба)\thirdApp\thirdApp\
+build_property.ProjectDir = C:\Users\alesh\OneDrive\Desktop\лабы\2 курс\Бекенд\(18 лаба)\lab18_backend\thirdApp\thirdApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
